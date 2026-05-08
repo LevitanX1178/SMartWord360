@@ -1,5 +1,5 @@
 
-
+---
 
 # SmartWard360 🏥
 
@@ -10,7 +10,7 @@
 
 ## 🔗 Links
 
-**Live Demo:** [www.smartword360.netlify.app](www.smartword360.netlify.app)
+**Live Demo:** [https://smartword360.netlify.app](https://www.google.com/search?q=https://smartword360.netlify.app)
 
 **Repository:** [https://github.com/LevitanX1178/SMartWord360](https://github.com/LevitanX1178/SMartWord360)
 
@@ -22,15 +22,15 @@ SmartWard360 is a unified web-based platform that transforms hospital ward opera
 
 ### 🚀 Key Features
 
-🤖 **AI Clinical Notes** Generate professional SOAP notes and discharge summaries instantly using AI.
+**AI Clinical Notes** Generate professional SOAP notes and discharge summaries instantly using AI.
 
-💊 **Rx Safety Checker** Real-time drug-to-drug interaction detection for patient safety.
+**Rx Safety Checker** Real-time drug-to-drug interaction detection for patient safety.
 
-⇄ **Digital Handover** Structured protocols to eliminate shift-change miscommunication.
+**Digital Handover** Structured protocols to eliminate shift-change miscommunication.
 
-🚑 **Ambulance Sync** Pre-hospital coordination with live GPS and ECG data.
+**Ambulance Sync** Pre-hospital coordination with live GPS and ECG data.
 
-🆔 **Universal ID** Seamless patient records integrated via National ID.
+**Universal ID** Seamless patient records integrated via National ID.
 
 ---
 
@@ -79,7 +79,7 @@ npm run dev
 
 ## 👥 Team Binary Blood
 
-Tanvir Shahadat Shuva(Leader)
+Tanvir Shahadat Shuva
 
 Jobayer Ahmed
 
@@ -98,3 +98,4 @@ If you use this work in research or development, please cite:
 **Team Binary Blood. (2026). SmartWard360: AI-Powered Integrated Hospital Ward Management System.**
 
 ---
+
