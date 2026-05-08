@@ -10,7 +10,7 @@
 
 ## 🔗 Links
 
-**Live Demo:** [www.smartword360.netlify.app](smartword360.netlify.app)
+**Live Demo:** [www.smartword360.netlify.app](www.smartword360.netlify.app)
 
 **Repository:** [https://github.com/LevitanX1178/SMartWord360](https://github.com/LevitanX1178/SMartWord360)
 
