@@ -79,7 +79,7 @@ npm run dev
 
 ## 👥 Team Binary Blood
 
-Tanvir Shahadat Shuva
+Tanvir Shahadat Shuva(Leader)
 
 Jobayer Ahmed
 
